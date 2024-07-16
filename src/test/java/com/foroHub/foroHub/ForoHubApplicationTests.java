@@ -1,4 +1,4 @@
-package com.foroHub.foroHub.entity;
+package com.foroHub.foroHub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
